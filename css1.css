@@ -9,3 +9,9 @@ body {
 button {
   background-color: #BF6944;
 }
+
+input {
+  width: 200px;
+  height: 30px;
+  background-color: #736E6E;
+}
